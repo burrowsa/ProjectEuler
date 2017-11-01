@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Test Files">
+      <UniqueIdentifier>{5f9d801a-237b-44bc-a0f5-66fb61488492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{a3908531-fd61-4662-ac25-f39e2a302a43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\googletest\googletest\src\gtest_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_primes.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem1.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem2.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem3.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem4.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem5.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem6.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem7.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem8.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem9.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem10.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem11.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem12.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem13.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem14.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem15.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem16.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem17.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem18.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem19.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem20.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem21.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem31.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem36.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_problem67.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_util.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="primes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem17.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem18.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem36.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
