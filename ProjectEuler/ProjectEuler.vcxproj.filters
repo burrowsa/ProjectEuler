@@ -97,6 +97,12 @@
     <ClCompile Include="problem19.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test_problem22.cpp">
+      <Filter>Test Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="primes.h">
@@ -172,6 +178,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem22.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
